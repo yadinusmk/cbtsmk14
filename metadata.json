@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Ujian Online",
+  "description": "Aplikasi ujian online lengkap dengan dasbor admin untuk mengelola siswa, kelas, mata pelajaran, soal, jadwal, dan hasil ujian, serta antarmuka siswa untuk mengerjakan ujian.",
+  "requestFramePermissions": []
+}
